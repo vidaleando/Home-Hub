@@ -1,10 +1,7 @@
 This project was first created by Jonathan Foot (Github: jfoot).
-All rights are reserved (C) 2021.
+Extra code and further customization was implemented by Diego Vidal.
+All rights are reserved (C) 2026.
 
-Project Website: https://departureboard.jonathanfoot.com
-Documentation: https://jonathanfoot.com/Projects/DepartureBoard
-Terms and Conditions: https://jonathanfoot.com/Projects/DepartureBoard/TermsAndConditions
-Contact: jonathan@jonathanfoot.com
 	
 Description: This project currently consists of three programs which 
 will emulate a live rail or bus departure board and display it on 
@@ -20,7 +17,4 @@ Project (Python3) Includes:
 	station.
 	DemoPy3.py - Test the program without needing any API credentials.
 	
-	
-Deprecated (Python 2):
-	Python 2 programs have now been removed from the repository as of July 2021,
-	please see the repo commit history if you require these programs.
+
